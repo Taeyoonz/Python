@@ -21,18 +21,18 @@
   ```
 + 8진수와 16진수
   - 8진수(Octal)
-    ```python
-    >>> a = 0o177
-    >>> print(a)
-    127
-    ```
+  ```python
+  >>> a = 0o177
+  >>> print(a)
+  127
+  ```
   - 16진수(hexadecimal)
-    ```python
-    >>> a = 0x8ff
-    >>> b = 0xABC
-    >>> print(b)
-    2748
-    ```
+  ```python
+  >>> a = 0x8ff
+  >>> b = 0xABC
+  >>> print(b)
+  2748
+  ```
 + 사칙연산
   ```python
   >>> a = 3
